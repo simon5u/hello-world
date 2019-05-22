@@ -1,1 +1,3 @@
 https://github.com/wikke/vimrc
+https://github.com/wikke/tmux.conf
+https://github.com/wikke/NeuralNetworkArchitecture
